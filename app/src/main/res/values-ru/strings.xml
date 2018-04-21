@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CA-Student Attendance</string>
+    <string name="example_code_edu_az">Пример@code.edu.az</string>
+    <string name="password">Пароль</string>
+    <string name="log_in">Логин</string>
+    <string name="loading">Загрузка...</string>
+    <string name="back">Назад</string>
+    <string name="new_password">Новый пароль</string>
+    <string name="new_password_confirmed">Повторять новый пароль</string>
+    <string name="send">Послать</string>
+    <string name="name_surname">Имя Фамилия</string>
+    <string name="group_schedule">График</string>
+    <string name="group_000">"Груп : "</string>
+    <string name="phone">Тел : </string>
+    <string name="lessontime">Время урока : </string>
+    <string name="attendances">Список посещаемости</string>
+    <string name="yor_email">"Эл. адрес "</string>
+    <string name="password_not_matched">Пароли не совпадают!</string>
+    <string name="exsit">Уверен ?</string>
+    <string name="yes">Да</string>
+    <string name="cancel">Отмена</string>
+    <string name="scan_qr_code">Сканировать QR-код</string>
+    <string name="ok">Ок</string>
+    <string name="stop_scan">Прекратить сканирование</string>
+    <string name="good_scan">Хорошее сканирование</string>
+    <string name="confirm_password">Повторять пароль</string>
+    <string name="your_password">Пароль!</string>
+    <string name="newpassword">Новый пароль!</string>
+    <string name="min_simvol">Мин 8 символов !</string>
+    <string name="max_simvol">Мак 16 символов !</string>
+</resources>

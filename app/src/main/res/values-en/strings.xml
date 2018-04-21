@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CA-Student Attendance</string>
+    <string name="example_code_edu_az">example@code.edu.az</string>
+    <string name="password">Password</string>
+    <string name="log_in">Login</string>
+    <string name="back">Back</string>
+    <string name="loading">Loading...</string>
+    <string name="send">Send</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="scan_qr_code">Scan QR code</string>
+    <string name="ok">Ok</string>
+    <string name="phone">"Phone : "</string>
+    <string name="yor_email">Email!</string>
+    <string name="your_password">Password!</string>
+    <string name="exsit">Are you sure ?</string>
+    <string name="group_000">"Grup : "</string>
+    <string name="stop_scan">Stop scan</string>
+    <string name="good_scan">Good scan</string>
+    <string name="new_password">New password</string>
+    <string name="new_password_confirmed">New password confirmed</string>
+    <string name="name_surname">Name Surname</string>
+    <string name="group_schedule">Group schedule</string>
+    <string name="lessontime">"Lesson time : "</string>
+    <string name="attendances">Attandances list</string>
+    <string name="newpassword">New password !</string>
+    <string name="confirm_password">Password confirmed !</string>
+    <string name="password_not_matched">Password Not Matched !</string>
+    <string name="min_simvol">Min 8 characters !</string>
+    <string name="max_simvol">Max 16 characters !</string>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CA-Student Attendance</string>
+    <string name="log_in">Giriş</string>
+    <string name="password">Şifrə</string>
+    <string name="example_code_edu_az">nümunə@code.edu.az</string>
+    <string name="loading">Yüklənir...</string>
+    <string name="back">Geri</string>
+    <string name="new_password">Yeni şifrə</string>
+    <string name="new_password_confirmed">Yeni şifrə təkrar</string>
+    <string name="send">Göndər</string>
+    <string name="name_surname">Ad Soyad</string>
+    <string name="group_schedule">Qrup cədvəli</string>
+    <string name="group_000">"Qrup  : "</string>
+    <string name="phone">"Tel : "</string>
+    <string name="lessontime">"Dərs vaxtı : "</string>
+    <string name="attendances">Davamiyyət siyahısı</string>
+    <string name="yor_email">Email !</string>
+    <string name="your_password">Şifrə!</string>
+    <string name="newpassword">Yeni şifrə!</string>
+    <string name="confirm_password">Şifrə təkrar!</string>
+    <string name="password_not_matched">Şifrələr  uyğun deyil!</string>
+    <string name="exsit">Çıxmaq ?</string>
+    <string name="yes">Hə</string>
+    <string name="cancel">Ləğv et</string>
+    <string name="scan_qr_code">Kameranı QR koda yaxınlaşdır</string>
+    <string name="ok">Tamam</string>
+    <string name="stop_scan">Skan olunmadı</string>
+    <string name="good_scan">Skan olundu</string>
+    <string name="min_simvol">Min 8 simvol !</string>
+    <string name="max_simvol">Max 16 simvol !</string>
+
+
+</resources>
